@@ -85,5 +85,5 @@ This repository contains selected and presentation-cleaned C# scripts from the c
 
 Unity & C# Game Developer
 
-Portfolio: Coming soon  
-LinkedIn: Coming soon
+Portfolio:(https://akbarahsan217.wixsite.com/ahsan-akbar)  
+LinkedIn: (https://www.linkedin.com/in/ahsan-akbar-dev/)

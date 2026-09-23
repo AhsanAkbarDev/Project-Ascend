@@ -38,8 +38,23 @@ Project Ascend combines platforming, combat and level progression across multipl
 
 ## 📸 Gameplay Screenshots
 
-Screenshots will be displayed here.
+### Gameplay
+![Project Ascend Gameplay](Screenshots/Project_Ascend_Gameplay.png)
 
+![Project Ascend Gameplay](Screenshots/Project_Ascend_Gameplay_1.png)
+
+![Project Ascend Gameplay](Screenshots/Project_Ascend_Gameplay_2.png)
+
+![Project Ascend Gameplay](Screenshots/Project_Ascend_Gameplay_3.png)
+
+### Pause Menu
+![Project Ascend Pause Menu](Screenshots/Project_Ascend_Pause_Menu.png)
+
+### Defeat
+![Project Ascend Defeat](Screenshots/Project_Ascend_Defeat.png)
+
+### Victory
+![Project Ascend Victory](Screenshots/Project_Ascend_Victory.png)
 ---
 
 ## 💻 Selected Source Code

@@ -61,8 +61,22 @@ Project Ascend combines platforming, combat and level progression across multipl
 
 This repository contains selected and presentation-cleaned C# scripts from the completed Project Ascend project, highlighting several of the game's core gameplay systems.
 
-Source-code links will be added after the selected scripts are uploaded.
+### 🧍 Player
 
+- [Movement.cs](Scripts/Player/Movement.cs) — 2D Rigidbody movement, jumping, ground detection, variable gravity, health, healing, knockback, death and respawning.
+
+### ⚔️ Combat
+
+- [Player_Shoot.cs](Scripts/Combat/Player_Shoot.cs) — Player projectile attack system using animation events, directional firing and attack cooldowns.
+
+### 🤖 Enemy AI
+
+- [Enemy_Movement.cs](Scripts/Enemy/Enemy_Movement.cs) — State-based enemy AI featuring Idle, Patrol, Chase and Attack behaviours with projectile combat.
+- [BossEnemy_Movement.cs](Scripts/Enemy/BossEnemy_Movement.cs) — Specialised flying boss AI featuring movement states, aimed projectile attacks and victory integration.
+
+### 🚩 Game Systems
+
+- [Checkpoint.cs](Scripts/Systems/Checkpoint.cs) — Checkpoint system integrating player respawning, level progress and audio feedback.
 ---
 
 ## 👨‍💻 Developer
